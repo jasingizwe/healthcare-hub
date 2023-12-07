@@ -57,6 +57,7 @@ INSERT INTO `diseases` (`id`, `name`, `description`, `symptoms`, `drugs`) VALUES
 (25, 'Multiple Sclerosis', 'Multiple Sclerosis is a chronic autoimmune disease that affects the central nervous system. Symptoms vary widely and may include fatigue, numbness, and difficulties with coordination. Disease-modifying therapies like Interferon-beta are used for treatment.', 'Fatigue, Numbness, Coordination Difficulties', 'Interferon-beta, Fingolimod'),
 (26, 'Parkinson\'s Disease', 'Parkinson\'s Disease is a neurodegenerative disorder that affects movement. Symptoms include tremors, bradykinesia, and stiffness. Levodopa is a common medication used to manage motor symptoms in Parkinson\'s Disease.', 'Tremors, Bradykinesia, Stiffness', 'Levodopa, Pramipexole'),
 (27, 'Ovarian Cancer', 'Ovarian Cancer is a type of cancer that begins in the ovaries. Symptoms may be subtle, but they can include abdominal bloating, pelvic pain, and changes in bowel habits. Treatment often involves surgery and chemotherapy.', 'Abdominal Bloating, Pelvic Pain, Changes in Bowel Habits', 'Carboplatin, Paclitaxel');
+(28, 'Anemia', 'Anemia', 'Anemia is a condition in which the body does not have enough healthy red blood cells. Symptoms include Feeling weak or tired more often than usual, or with exercise, Headaches, Loss of appetite, Numbness and tingling of hands and feet. Treatment usually includes , 'iron',  'vitamin B12', 'folate');
 
 -- --------------------------------------------------------
 
