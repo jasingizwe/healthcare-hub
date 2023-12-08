@@ -105,6 +105,7 @@ INSERT INTO `drugs` (`id`, `name`, `uses`, `side_effects`) VALUES
 (37, 'Carvedilol', 'Hypertension and heart failure treatment', 'Fatigue, low blood pressure'),
 (38, 'Furosemide', 'Diuretic', 'Dehydration, low potassium'),
 (39, 'Oxycodone', 'Pain relief', 'Nausea, constipation');
+(40, 'Amoxicillin', 'Antibiotics', 'Diarrhea');
 
 -- --------------------------------------------------------
 
